@@ -1,4 +1,5 @@
 # 📦 ABC XYZ Product Classification Analysis
+![](https://github.com/KJones-Git/ABC_XYZ_Inventory_Management/blob/693212885357285c1f8919c089d026375e3a5aea/images/abc_xyz_chart.png)
 
 This project delivers a comprehensive **ABC-XYZ Analysis** on a product inventory dataset, classifying items based on both their **revenue contribution** and **demand variability**.
 
@@ -9,8 +10,6 @@ All relevant files and scripts are available below:
 
 - 📄 [SQL Queries](https://github.com/KJones-Git/ABC_XYZ_Inventory_Management/blob/2e664169ed8c9906c93b30dbe31fc6ed21300869/ABC_XYZ_staging.sql)
 - 📈 [Excel Workbook](https://github.com/KJones-Git/ABC_XYZ_Inventory_Management/blob/2e664169ed8c9906c93b30dbe31fc6ed21300869/Excel_ABC_XYZ_Test.xlsx)
-
-# Table of Contents
 
 ## 📚 Table of Contents
 
@@ -38,10 +37,6 @@ All relevant files and scripts are available below:
 ### 🚀 Future & Thanks
 - [Future Enhancements](#future-enhancements)
 - [Acknowledgments](#acknowledgments)
-
-
-
-![](https://github.com/KJones-Git/ABC_XYZ_Inventory_Management/blob/693212885357285c1f8919c089d026375e3a5aea/images/abc_xyz_chart.png)
 
 ---
 
