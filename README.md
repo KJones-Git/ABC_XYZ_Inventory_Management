@@ -1,5 +1,8 @@
 # 📦 ABC XYZ Product Classification Analysis
-![](https://github.com/KJones-Git/ABC_XYZ_Inventory_Management/blob/693212885357285c1f8919c089d026375e3a5aea/images/abc_xyz_chart.png)
+
+<p align="center">
+  <img src="https://github.com/KJones-Git/ABC_XYZ_Inventory_Management/blob/693212885357285c1f8919c089d026375e3a5aea/images/abc_xyz_chart.png?raw=true" width="500">
+</p>
 
 This project delivers a comprehensive **ABC-XYZ Analysis** on a product inventory dataset, classifying items based on both their **revenue contribution** and **demand variability**.
 
