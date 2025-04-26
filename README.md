@@ -9,6 +9,7 @@ This project delivers a comprehensive **ABC-XYZ Analysis** on a product inventor
 The primary objective is to support **inventory optimization**, **enhance forecasting accuracy**, and **identify critical SKUs** across a portfolio of **1,000 products**.
 
 Analysis was conducted using both **SQL** and **Microsoft Excel** to highlight the advantages of each tool for supply chain and operational planning.  
+
 All relevant files and scripts are available below:
 
 - 📄 [SQL Queries](https://github.com/KJones-Git/ABC_XYZ_Inventory_Management/blob/2e664169ed8c9906c93b30dbe31fc6ed21300869/ABC_XYZ_staging.sql)
