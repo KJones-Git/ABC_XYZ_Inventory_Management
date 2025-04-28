@@ -31,6 +31,7 @@ All relevant files and scripts are available below:
   - [Final ABC XYZ Classification](#final-abc-xyz-classification)
 
 ### 📦 Results
+- [Schema Visualization](#schema-visualization)
 - [Final Dataset](#final-dataset)
 - [Outputs and Analysis](#outputs-and-analysis)
 
@@ -199,6 +200,32 @@ UPDATE abc_staging
 SET `ABC_XYZ_Classification` = CONCAT(abc_class, XYZ_classification);
 ```
 ---
+
+## Schema Visualization
+
+```mermaid
+flowchart LR
+    A1[Jan_Demand] --> Aavg[Calculate avg_demand]
+    A2[Feb_Demand] --> Aavg
+    A3[Mar_Demand] --> Aavg
+    A4[Apr_Demand] --> Aavg
+    A5[May_Demand] --> Aavg
+    A6[Jun_Demand] --> Aavg
+    A7[Jul_Demand] --> Aavg
+    A8[Aug_Demand] --> Aavg
+    A9[Sep_Demand] --> Aavg
+    A10[Oct_Demand] --> Aavg
+    A11[Nov_Demand] --> Aavg
+    A12[Dec_Demand] --> Aavg
+
+    Aavg --> StanDev[Calculate StanDev Value]
+    StanDev --> CV[Calculate Coefficient Variation Percent]
+    TotalSales[Total Sales Value] --> ABC[Assign ABC Class A-B-C]
+
+    CV --> XYZ[Assign XYZ Class X-Y-Z]
+    ABC --> Final[Form Final ABCXYZ Classification]
+    XYZ --> Final
+```
 
 ## Final Dataset
 
